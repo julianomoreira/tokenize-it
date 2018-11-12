@@ -3,13 +3,13 @@
   "bundleVersion": 1,
   "commands": [
     {
-      "name": "my-command",
+      "name": "Connect to your Tokens ",
       "identifier": "my-command-identifier",
       "script": "./my-command.js"
     }
   ],
   "menu": {
-    "title": "my-plugin",
+    "title": "Tokenize It",
     "items": [
       "my-command-identifier"
     ]

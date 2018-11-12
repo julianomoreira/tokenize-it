@@ -345,7 +345,7 @@ exports['default'] = function (context) {
 
   var options = {
     identifier: 'unique.id',
-    width: 240,
+    width: 340,
     height: 180,
     show: false
   };
@@ -385,7 +385,7 @@ var UI = __webpack_require__(13);
 /* 2 */
 /***/ (function(module, exports) {
 
-module.exports = "file://" + context.plugin.urlForResourceNamed("_webpack_resources/c03a40b86945e7b9effb76050e03c3eb.html").path();
+module.exports = "file://" + context.plugin.urlForResourceNamed("_webpack_resources/5eb6abd8e4dfdf75c7838a085382f9db.html").path();
 
 /***/ }),
 /* 3 */

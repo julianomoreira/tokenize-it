@@ -8,7 +8,13 @@ html {
   overflow: hidden;
 
   /* Force the default cursor, even on text */
-  cursor: default;
+  cursor: default;  
+}
+
+body {
+  background-color: #fff;
+  height: 100%;
+  width: 100%;
 }
 
 *, *:before, *:after {
@@ -25,4 +31,8 @@ html {
 input, textarea {
   -webkit-user-select: auto;
   user-select: auto;
+}
+
+.hello {
+  background-color: red;
 }

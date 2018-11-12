@@ -3,21 +3,21 @@
   "bundleVersion": 1,
   "commands": [
     {
-      "name": "my-command",
+      "name": "Connect to your Tokens ",
       "identifier": "my-command-identifier",
       "script": "my-command.js"
     }
   ],
   "menu": {
-    "title": "my-plugin",
+    "title": "Tokenize It",
     "items": [
       "my-command-identifier"
     ]
   },
   "version": "0.1.0",
-  "name": "my-plugin",
+  "name": "Tokenize It",
   "disableCocoaScriptPreprocessor": true,
   "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
   "author": "Juliano.Dasilva",
-  "authorEmail": "juliano.dasilva@target.com"
+  "authorEmail": "me@gmail.com"
 }
